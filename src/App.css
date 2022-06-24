@@ -95,7 +95,7 @@ main {
   margin-top: 20px;
   margin-bottom: 60px;
   width: 950px;
-  height: 832px;
+  /* height: 832px; */
   /* background-color: lightblue; */
   display: flex;
   flex-direction: column;
