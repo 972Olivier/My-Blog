@@ -1,6 +1,7 @@
 /*-------General rules-------*/
 .App {
   background-color: #f1f1f1;
+  width: 100vw;
 }
 h1,
 h2,
@@ -180,7 +181,7 @@ footer span {
     /* border: solid 1px black; */
   }
   .item img {
-    width: 500px;
+    width: 100%;
   }
   .SideContent {
     margin-bottom: 40px;
