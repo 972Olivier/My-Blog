@@ -172,13 +172,12 @@ footer span {
     align-items: center;
   }
   .main-content {
-    height: 900px;
-    border: #333333 1px;
+    margin-top: 30px;
+    height: 950px;
   }
 
   .item {
-    height: 470px;
-    /* border: solid 1px black; */
+    height: 450px;
   }
   .item img {
     width: 100%;
